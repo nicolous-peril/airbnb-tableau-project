@@ -13,6 +13,8 @@ The business scenario is simple: a potential Airbnb investor wants to understand
 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/nicanor.jr.peril/viz/AirBnBFullProject_17798355555580/Dashboard1?publish=yes)  
 **Tutorial Reference:** [Full Beginner Project in Tableau | Alex The Analyst](https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=5)
 
+![AirBnB Tableau Dashboard](images/dashboard-preview.png)
+
 ## Business Questions
 
 - Which Seattle zip codes have the highest average Airbnb listing prices?
