@@ -35,7 +35,7 @@ The workbook contains three source tables:
 
 Source file: [`data/Tableau Full Project.xlsx`](data/Tableau%20Full%20Project.xlsx)
 
-Detailed workflow: [`step-by-step_guide.md`](step-by-step_guide.md)
+Detailed workflow: [`docs/step_by_step_process.md`](docs/step_by_step_process.md)
 
 ## Tools Used
 
